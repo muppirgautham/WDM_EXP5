@@ -1,5 +1,5 @@
 ### EX:5 Information Retrieval Using Boolean Model in Python
-### DATE: 23/03/24
+### DATE: 09/03/24
 ### AIM: To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
 <div align = "justify">
